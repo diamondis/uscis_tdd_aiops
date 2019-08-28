@@ -25,7 +25,7 @@ Mr. Bangalore was the primary architect and developer of many Natural Language P
 
 **Tools, Technologies, Programming Languages**
 
-Apache Spark, Apache MxNet, AWS Cloud, AWS Linux, Cassandra, Cucumber, Selenium, Docker, ElasticSearch, Fortify, Github, Terraform, Jira, Jenkins, JUnit, Kibana, Logstash, Maven, Nexus, NumPY, OpenCV, PostgreSQL, Python, OWASP, OpenShift, ReactJS, Selenium, SonarQube, Scala, TensorFlow, Apache JMeter, Apache Tomcat, New Relic, SonarQube, C, C++, Java, JavaScript (React, Angular), Python, AWS, AWS CloudWatch, Ansible, Terraform, VMWare
+Apache Spark, Apache MxNet, AWS Cloud, AWS Linux, Cassandra, Cucumber, Selenium, Docker, ElasticSearch, Fortify, Github, Terraform, Jira, Jenkins, JUnit, Kibana, Logstash, Maven, Nexus, NumPY, OpenCV, PostgreSQL, Python, OWASP, OpenShift, ReactJS, Selenium, SonarQube, Scala, TensorFlow, Apache JMeter, Apache Tomcat, New Relic, SonarQube, C, C++, Java, JavaScript (React, Angular), Python, AWS, AWS CloudWatch, Ansible, Terraform, VMWare.
 
 ### 1.1.2	Dr. Chul Gwon
 Dr. Chul Gwon received his Ph.D. in Particle Physics in 2003 from Ohio State. He has supported the DoD and the Intelligence Community for over 15 years.  6He has experience developing deep learning solutions for the government and commercially using several open source libraries, including Tensorflow, PyTorch, MxNet.  Along with machine learning expertise, Dr. Gwon is an AWS Certified Solutions Architect Associate. Relevant experience includes the projects shown below.
